@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tuq5UiQsN1gPQ9+Htfm8+RnTEpu+ecUWyfJSKUt6+6pJwJNfW/m8R7z0AHBktem9xNsH+GHIErVrc0lBMwlb3w==",
+  "success": true,
+  "projectFilePath": "/Users/mialikes/Desktop/MDV228/MDV/SignUp/SignUp.iOS/SignUp.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/mialikes/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/mialikes/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/mialikes/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

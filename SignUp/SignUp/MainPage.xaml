@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SignUp.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Welcome to Xamarin.Forms!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Entry x:Name="fnameEntry" Placeholder="First Name" />
+       <Entry x:Name="lnameEntry" Placeholder="Last Name" />
+       <Entry x:Name="usernameEntry" Placeholder="Username" />
+       <Entry x:Name="emailEntry" Placeholder="Email" Keyboard="Email" />
+       <Entry x:Name="passwordEntry" Placeholder="Password" IsPassword="True" />
+    
+       <Button x:Name="signUpButton" Text="Sign Up" />
+    </StackLayout>
+
+</ContentPage>

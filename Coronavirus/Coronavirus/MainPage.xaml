@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Coronavirus.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="NC Covid" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label x:Name="casesLabel" Text="Cases:" />
+        <Label x:Name="deathsLabel" Text="Deaths:" />
+        <Label x:Name="bedsLabel" Text="ICU Beds:" />
+        <Label x:Name="vaccinesLabel" Text="Vaccines Completed:" />
+        <Button x:Name="covidButton" Text="Get Covid" />
+    </StackLayout>
+
+</ContentPage>

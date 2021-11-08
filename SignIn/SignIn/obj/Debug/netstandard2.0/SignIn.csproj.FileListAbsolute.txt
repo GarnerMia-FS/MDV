@@ -1,0 +1,16 @@
+/Users/mialikes/Desktop/MDV228/MDV/SignIn/SignIn/bin/Debug/netstandard2.0/SignIn.deps.json
+/Users/mialikes/Desktop/MDV228/MDV/SignIn/SignIn/bin/Debug/netstandard2.0/SignIn.dll
+/Users/mialikes/Desktop/MDV228/MDV/SignIn/SignIn/bin/Debug/netstandard2.0/ref/SignIn.dll
+/Users/mialikes/Desktop/MDV228/MDV/SignIn/SignIn/bin/Debug/netstandard2.0/SignIn.pdb
+/Users/mialikes/Desktop/MDV228/MDV/SignIn/SignIn/obj/Debug/netstandard2.0/SignIn.csproj.AssemblyReference.cache
+/Users/mialikes/Desktop/MDV228/MDV/SignIn/SignIn/obj/Debug/netstandard2.0/SignIn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mialikes/Desktop/MDV228/MDV/SignIn/SignIn/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/mialikes/Desktop/MDV228/MDV/SignIn/SignIn/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/mialikes/Desktop/MDV228/MDV/SignIn/SignIn/obj/Debug/netstandard2.0/SignIn.AssemblyInfoInputs.cache
+/Users/mialikes/Desktop/MDV228/MDV/SignIn/SignIn/obj/Debug/netstandard2.0/SignIn.AssemblyInfo.cs
+/Users/mialikes/Desktop/MDV228/MDV/SignIn/SignIn/obj/Debug/netstandard2.0/SignIn.csproj.CoreCompileInputs.cache
+/Users/mialikes/Desktop/MDV228/MDV/SignIn/SignIn/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/mialikes/Desktop/MDV228/MDV/SignIn/SignIn/obj/Debug/netstandard2.0/SignIn.dll
+/Users/mialikes/Desktop/MDV228/MDV/SignIn/SignIn/obj/Debug/netstandard2.0/ref/SignIn.dll
+/Users/mialikes/Desktop/MDV228/MDV/SignIn/SignIn/obj/Debug/netstandard2.0/SignIn.pdb
+/Users/mialikes/Desktop/MDV228/MDV/SignIn/SignIn/obj/Debug/netstandard2.0/SignInPage.xaml.g.cs

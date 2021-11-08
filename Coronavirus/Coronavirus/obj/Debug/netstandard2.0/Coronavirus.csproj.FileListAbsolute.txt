@@ -1,0 +1,15 @@
+/Users/mialikes/Desktop/MDV228/MDV/Coronavirus/Coronavirus/obj/Debug/netstandard2.0/Coronavirus.csproj.AssemblyReference.cache
+/Users/mialikes/Desktop/MDV228/MDV/Coronavirus/Coronavirus/obj/Debug/netstandard2.0/Coronavirus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mialikes/Desktop/MDV228/MDV/Coronavirus/Coronavirus/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/mialikes/Desktop/MDV228/MDV/Coronavirus/Coronavirus/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/mialikes/Desktop/MDV228/MDV/Coronavirus/Coronavirus/obj/Debug/netstandard2.0/Coronavirus.AssemblyInfoInputs.cache
+/Users/mialikes/Desktop/MDV228/MDV/Coronavirus/Coronavirus/obj/Debug/netstandard2.0/Coronavirus.AssemblyInfo.cs
+/Users/mialikes/Desktop/MDV228/MDV/Coronavirus/Coronavirus/obj/Debug/netstandard2.0/Coronavirus.csproj.CoreCompileInputs.cache
+/Users/mialikes/Desktop/MDV228/MDV/Coronavirus/Coronavirus/bin/Debug/netstandard2.0/Coronavirus.deps.json
+/Users/mialikes/Desktop/MDV228/MDV/Coronavirus/Coronavirus/bin/Debug/netstandard2.0/Coronavirus.dll
+/Users/mialikes/Desktop/MDV228/MDV/Coronavirus/Coronavirus/bin/Debug/netstandard2.0/ref/Coronavirus.dll
+/Users/mialikes/Desktop/MDV228/MDV/Coronavirus/Coronavirus/bin/Debug/netstandard2.0/Coronavirus.pdb
+/Users/mialikes/Desktop/MDV228/MDV/Coronavirus/Coronavirus/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/mialikes/Desktop/MDV228/MDV/Coronavirus/Coronavirus/obj/Debug/netstandard2.0/Coronavirus.dll
+/Users/mialikes/Desktop/MDV228/MDV/Coronavirus/Coronavirus/obj/Debug/netstandard2.0/ref/Coronavirus.dll
+/Users/mialikes/Desktop/MDV228/MDV/Coronavirus/Coronavirus/obj/Debug/netstandard2.0/Coronavirus.pdb

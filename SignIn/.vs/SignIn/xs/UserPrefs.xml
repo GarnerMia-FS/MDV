@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{8893D5E2-64A3-4225-BDCD-D43123BCCE9F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SignIn/MainPage.xaml.cs">
+    <Files>
+      <File FileName="SignIn/MainPage.xaml.cs" Line="57" Column="8" />
+      <File FileName="SignIn/SignInPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="SignIn/SignInPage.xaml" Line="1" Column="1" />
+      <File FileName="SignIn/Models/UserData.cs" Line="1" Column="1" />
+      <File FileName="SignIn/MainPage.xaml" Line="28" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SignIn" expanded="True">
+            <Node name="SignIn" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+              <Node name="SignInPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SignIn.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SignIn.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

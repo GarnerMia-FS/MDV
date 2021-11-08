@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SignIn.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+
+
+        <Label Text="Sign Up" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+           
+                    <Label x:Name="fnameLabel" Text="{Binding FName}" />
+                     <Entry x:Name="fnameEntry" Placeholder="Enter your first Name" />
+
+                         <Label x:Name="lnameLabel" Text="{Binding LName}" />
+                        <Entry x:Name="lnameEntry" Placeholder="Enter your last Name" />
+
+                    <Label x:Name="usernameLabel" Text="{Binding UserName}" />
+                    <Entry x:Name="usernameEntry" Placeholder="Enter your Username" />
+
+                    <Label x:Name="emailLabel" Text="{Binding Email}" />
+                    <Entry x:Name="emailEntry" Placeholder="Enter your Email" Keyboard="Email" />
+
+                     <Label x:Name="passwordLabel" Text="{Binding Password}" />
+                    <Entry x:Name="passwordEntry" Placeholder="Enter your Password" IsPassword="True" />
+
+          
+
+        <Button x:Name="signupButton" Text="Sign Up" />
+
+        <Button x:Name="signinButton" Text="Sign In" />
+    </StackLayout>
+
+</ContentPage>
