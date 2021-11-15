@@ -14,3 +14,4 @@
 /Users/mialikes/Desktop/MDV228/MDV/SignIn/SignIn/obj/Debug/netstandard2.0/ref/SignIn.dll
 /Users/mialikes/Desktop/MDV228/MDV/SignIn/SignIn/obj/Debug/netstandard2.0/SignIn.pdb
 /Users/mialikes/Desktop/MDV228/MDV/SignIn/SignIn/obj/Debug/netstandard2.0/SignInPage.xaml.g.cs
+/Users/mialikes/Desktop/MDV228/MDV/SignIn/SignIn/obj/Debug/netstandard2.0/NCData.xaml.g.cs

@@ -11,7 +11,7 @@ namespace Coronavirus
 
            
 
-            List<CovidData> annotations = api.GetCovid();
+            List<CovidData> actuals = api.GetCovid();
         }
 
     }

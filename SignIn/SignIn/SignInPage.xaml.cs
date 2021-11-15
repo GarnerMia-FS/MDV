@@ -61,6 +61,11 @@ namespace SignIn
             {
                 await DisplayAlert("Hint", "User does not exist, would you like to sign up", "Try Again","Sign Up");
             }
+            await Navigation.PushAsync(new NCData
+            {
+
+            });
+
         }
     }
 }

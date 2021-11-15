@@ -575,3 +575,5 @@
 /Users/mialikes/Desktop/MDV228/MDV/Coronavirus/Coronavirus.Android/obj/Debug/stamp/_GenerateJavaStubs.stamp
 /Users/mialikes/Desktop/MDV228/MDV/Coronavirus/Coronavirus.Android/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
 /Users/mialikes/Desktop/MDV228/MDV/Coronavirus/Coronavirus.Android/obj/Debug/stamp/_ResolveLibraryProjectImports.stamp
+/Users/mialikes/Desktop/MDV228/MDV/Coronavirus/Coronavirus.Android/obj/Debug/android/assets/Microsoft.CSharp.dll
+/Users/mialikes/Desktop/MDV228/MDV/Coronavirus/Coronavirus.Android/obj/Debug/android/assets/Microsoft.CSharp.pdb

@@ -1,25 +1,23 @@
 ﻿<Properties StartupConfiguration="{DCF1A41D-A2FE-4843-8C86-80C8202BF6A0}|Default">
   <MonoDevelop.Ide.ItemProperties.Coronavirus.iOS FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Coronavirus/MainPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Coronavirus/APIConnect.cs">
     <Files>
-      <File FileName="Coronavirus/DataManager.cs" Line="13" Column="1" />
-      <File FileName="Coronavirus/APIConnect.cs" Line="32" Column="12" />
-      <File FileName="Coronavirus/CovidData.cs" Line="17" Column="22" />
-      <File FileName="Coronavirus/MainPage.xaml" Line="8" Column="34" />
-      <File FileName="Coronavirus/MainPage.xaml.cs" Line="22" Column="55" />
+      <File FileName="Coronavirus/DataManager.cs" Line="16" Column="1" />
+      <File FileName="Coronavirus/APIConnect.cs" Line="36" Column="1" />
+      <File FileName="Coronavirus/CovidData.cs" />
+      <File FileName="Coronavirus/MainPage.xaml" />
+      <File FileName="Coronavirus/MainPage.xaml.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Coronavirus" expanded="True">
             <Node name="Coronavirus" expanded="True">
-              <Node name="MainPage.xaml" expanded="True" selected="True" />
+              <Node name="APIConnect.cs" selected="True" />
+              <Node name="MainPage.xaml" expanded="True" />
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

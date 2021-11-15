@@ -6,7 +6,7 @@ namespace Coronavirus
         public int Cases { get; set; }
         public int Deaths { get; set; }
         public int Icubeds { get; set; }
-        public int VaccinesInitiated { get; set; }
+        public int VaccinesCompleted { get; set; }
 
 
 
@@ -15,7 +15,7 @@ namespace Coronavirus
             Cases = cases;
             Deaths = deaths;
             Icubeds = icu;
-            VaccinesInitiated = vaccines;
+            VaccinesCompleted = vaccines;
         }
     }
 }

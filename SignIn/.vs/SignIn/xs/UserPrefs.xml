@@ -1,23 +1,23 @@
 ﻿<Properties StartupConfiguration="{8893D5E2-64A3-4225-BDCD-D43123BCCE9F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SignIn/MainPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SignIn/SignInPage.xaml.cs">
     <Files>
-      <File FileName="SignIn/MainPage.xaml.cs" Line="57" Column="8" />
-      <File FileName="SignIn/SignInPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="SignIn/SignInPage.xaml" Line="1" Column="1" />
-      <File FileName="SignIn/Models/UserData.cs" Line="1" Column="1" />
-      <File FileName="SignIn/MainPage.xaml" Line="28" Column="11" />
+      <File FileName="SignIn/MainPage.xaml.cs" Line="15" Column="44" />
+      <File FileName="SignIn/SignInPage.xaml.cs" Line="66" Column="1" />
+      <File FileName="SignIn/SignInPage.xaml" Line="16" Column="65" />
+      <File FileName="SignIn/Models/UserData.cs" />
+      <File FileName="SignIn/MainPage.xaml" Line="2" Column="9" />
+      <File FileName="SignIn/NCData.xaml" Line="1" Column="1" />
+      <File FileName="SignIn/NCData.xaml.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SignIn" expanded="True">
             <Node name="SignIn" expanded="True">
-              <Node name="Models" expanded="True" />
-              <Node name="App.xaml" expanded="True" />
-              <Node name="MainPage.xaml" expanded="True">
-                <Node name="MainPage.xaml.cs" selected="True" />
+              <Node name="NCData.xaml" expanded="True" />
+              <Node name="SignInPage.xaml" expanded="True">
+                <Node name="SignInPage.xaml.cs" selected="True" />
               </Node>
-              <Node name="SignInPage.xaml" expanded="True" />
             </Node>
           </Node>
         </State>
