@@ -5,5 +5,12 @@
     x:Class="CovidProject.NCData">
     <ContentPage.Content>
         
+      <StackLayout>
+          <Label x:Name="casesLabel" Text="Cases" />
+        <Label x:Name="deathsLabel" Text="Deaths" />
+        <Label x:Name="vaccinationsLabel" Text="Vaccinations Completed" />
+        <Button x:Name="covidButton" Text="Get Stats" />
+
+      </StackLayout>
     </ContentPage.Content>
 </ContentPage>

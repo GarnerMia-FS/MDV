@@ -12,6 +12,7 @@ namespace CovidProject
     {
         public MainPage()
         {
+            //Create Tabs
             InitializeComponent();
             NavigationPage ncdata = new NavigationPage(new NCData());
             ncdata.IconImageSource = "bar.png";

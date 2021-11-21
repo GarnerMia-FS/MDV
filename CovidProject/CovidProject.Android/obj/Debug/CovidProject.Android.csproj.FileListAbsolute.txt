@@ -578,3 +578,4 @@
 /Users/mialikes/Desktop/MDV228/MDV/CovidProject/CovidProject.Android/obj/Debug/res/drawable/search.png
 /Users/mialikes/Desktop/MDV228/MDV/CovidProject/CovidProject.Android/obj/Debug/res/drawable/swab.png
 /Users/mialikes/Desktop/MDV228/MDV/CovidProject/CovidProject.Android/obj/Debug/res/drawable/bar.png
+/Users/mialikes/Desktop/MDV228/MDV/CovidProject/CovidProject.Android/obj/Debug/android/assets/Newtonsoft.Json.dll

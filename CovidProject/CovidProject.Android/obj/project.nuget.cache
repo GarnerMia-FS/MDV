@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ydtiXykpuEpWZZMt2LWyuFxbCF8LWGjIwxXEIbgAF2p6KiNfsRSTgRqpTuTMZmq+AslYkioxDh7LK64sDHjQtA==",
+  "dgSpecHash": "OCQ1m5GZIszJ6g7jhcvQo/+PLJx+DOtd2jQzSb3A3laGxg3U5vvuYi+cuhZZKCXn4MMv9b/noBJd8IG2tc6hnA==",
   "success": true,
   "projectFilePath": "/Users/mialikes/Desktop/MDV228/MDV/CovidProject/CovidProject.Android/CovidProject.Android.csproj",
   "expectedPackageFiles": [
+    "/Users/mialikes/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
     "/Users/mialikes/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/mialikes/.nuget/packages/xamarin.androidx.activity/1.1.0.5/xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
     "/Users/mialikes/.nuget/packages/xamarin.androidx.annotation/1.1.0.8/xamarin.androidx.annotation.1.1.0.8.nupkg.sha512",
