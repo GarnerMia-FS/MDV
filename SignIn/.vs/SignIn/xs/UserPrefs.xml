@@ -3,11 +3,11 @@
     <Files>
       <File FileName="SignIn/MainPage.xaml.cs" Line="15" Column="44" />
       <File FileName="SignIn/SignInPage.xaml.cs" Line="66" Column="1" />
-      <File FileName="SignIn/SignInPage.xaml" Line="16" Column="65" />
+      <File FileName="SignIn/SignInPage.xaml" />
       <File FileName="SignIn/Models/UserData.cs" />
-      <File FileName="SignIn/MainPage.xaml" Line="2" Column="9" />
-      <File FileName="SignIn/NCData.xaml" Line="1" Column="1" />
-      <File FileName="SignIn/NCData.xaml.cs" Line="1" Column="1" />
+      <File FileName="SignIn/MainPage.xaml" />
+      <File FileName="SignIn/NCData.xaml" />
+      <File FileName="SignIn/NCData.xaml.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

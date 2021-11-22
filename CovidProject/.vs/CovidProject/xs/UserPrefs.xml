@@ -1,8 +1,10 @@
 ﻿<Properties StartupConfiguration="{0E58C4E7-D43E-4635-9F23-A37081E707FC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CovidProject/SignIn.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CovidProject/NewsView.xaml">
     <Files>
       <File FileName="CovidProject/Models/DataManager.cs" Line="1" Column="14" />
       <File FileName="CovidProject/SignIn.xaml" Line="1" Column="1" />
+      <File FileName="CovidProject/SignIn.xaml.cs" Line="1" Column="1" />
+      <File FileName="CovidProject/NewsView.xaml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,7 +13,8 @@
             <Node name="CovidProject" expanded="True">
               <Node name="Models" expanded="True" />
               <Node name="MainPage.xaml" expanded="True" />
-              <Node name="SignIn.xaml" expanded="True" selected="True" />
+              <Node name="NewsView.xaml" selected="True" />
+              <Node name="SignIn.xaml" expanded="True" />
               <Node name="TestingView.xaml" expanded="True" />
             </Node>
           </Node>
